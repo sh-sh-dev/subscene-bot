@@ -1,9 +1,5 @@
 # Subscene Bot
 
-<p align="center">
-    <img alt="subscene's logo" src="https://raw.githubusercontent.com/sh-sh-dev/subscene-bot/master/logo.jpg">
-</p>
-
 [![license](https://img.shields.io/github/license/sh-sh-dev/subscene-bot.svg?style=flat-square)](https://github.com/sh-sh-dev/subscene-bot/blob/master/LICENSE)
 [![HitCount](http://hits.dwyl.io/sh-sh-dev/subscene-bot.svg)](http://hits.dwyl.io/Naereen/badges)
 
